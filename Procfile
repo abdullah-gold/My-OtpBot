@@ -1,1 +1,1 @@
-web: python otp_bot.py
+worker: python otp_bot.py
