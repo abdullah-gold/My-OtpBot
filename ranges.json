@@ -1,0 +1,44 @@
+{
+  "WhatsApp": [
+    {
+      "panel": "FastX",
+      "country": "MADAGASCAR",
+      "flag": "🇲🇬",
+      "range": "26138XXX"
+    }
+  ],
+  "Facebook": [
+    {
+      "panel": "FastX",
+      "country": "Ivory Coast",
+      "flag": "🇨🇮",
+      "range": "2250779XXX"
+    },
+    {
+      "panel": "FastX",
+      "country": "Guinea",
+      "flag": "🇬🇳",
+      "range": "22465XXX"
+    }
+  ],
+  "Instagram": [
+    {
+      "panel": "FastX",
+      "country": "CENTRAL AFRICAN REPUBLIC",
+      "flag": "🇨🇫",
+      "range": "236724XXX"
+    },
+    {
+      "panel": "Stex",
+      "country": "India",
+      "flag": "🇮🇳",
+      "range": "236722XXX"
+    },
+    {
+      "panel": "Stex",
+      "country": "Guinea",
+      "flag": "🇬🇳",
+      "range": "224653XXX"
+    }
+  ]
+}
